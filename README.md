@@ -8,7 +8,7 @@ development , also which i expect to overcome. I am not very socially open perso
 
 ### 2. What is your plan for the next 6 months ?
 My target for the net 6 months is to improve upon my coding skills and upskill myself by participating in coding websites such as Hackerrank or codeforces , also i wil be preparing for GSOC.
-I will be maintaining my studies so as to get a good GPA so as not to upset my parents :-)
+I will be maintaining my studies so as to get a good GPA and not upset my parents :-)
 
 ### 3. How would you contribute back to the club ?
 I would try to impart my knowledge to people and help them out with whatever i know , i will try to be a better coder and participate in different coding competitions and take amfoss
